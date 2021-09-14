@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  A common type of mutant which cannot synthesize an essential metabolite that wild-type cells produce is termed as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nutritional heterotrophs",
+        "b": "Nutritional auxotrophs",
+        "c": "Nutritional prototrophs",
+        "d": "Nutritional Phototrophs"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Type of mutation in which a change in code leads to substitution of a different amino acid is called a ............	",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Spontaneous mutations",
+        "b": "Induced Mutations",
+        "c": "Non sense mutation",
+        "d": "Missense mutations"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.The significance of overlay technique in Gradient plate technique is :",
+      "answers": {
+        "a": "Nutrient agar sets easily compared to Streptomycin agar.",
+        "b": "Streptomycin diffuses into the lower layer, producing a gradient of antibiotic concentration from low to high.",
+        "c": "Growth rate is more in Streptomycin agar than in nutrient agar.",
+        "d": "None of the above."
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Absence of microbial growth on the HSC region of gradient plate indicates:",
+        "answers": {
+          "a": "Absence of Streptomycin resistant mutants.",
+          "b": "Presence of Streptomycin sensitive colonies.",
+          "c": "Lack of inoculums.",
+          "d": "Both a and c"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
