@@ -2,27 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.  A common type of mutant which cannot synthesize an essential metabolite that wild-type cells produce is termed as:",
+      "question": "1.  Mutants are unable to grow without one or more essential nutrients are termed as:",
       "answers": {
-        "a": "Nutritional heterotrophs",
-        "b": "Nutritional auxotrophs",
-        "c": "Nutritional prototrophs",
-        "d": "Nutritional Phototrophs"
+        "a": "Prototrophic",
+        "b": "Auxotrophic",
+        "c": "Oligotrophic",
+        "d": "Phototrophic"
       },
       
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. Type of mutation in which a change in code leads to substitution of a different amino acid is called a ............	",
+      "question": "2. Mutations which arise from high doses of chemical mutagen treatment or ionizing radiation exposures is termed as:  ",
       "answers": {
         "a": "Spontaneous mutations",
         "b": "Induced Mutations",
-        "c": "Non sense mutation",
+        "c": "Non induced mutations",
         "d": "Missense mutations"
       },
       
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
@@ -45,7 +45,7 @@
           "a": "a mutant of Bacillus subtilis unable to form endospores.",
           "b": "a mutant of Escherichia coli unable to produce tryptophan",
           "c": "a mutant of Streptococcus pneumoniae that does not form capsules.",
-          "d": "a mutant of E. coli that is resistant to streptomycin."
+          "d": "a mutant of E. coli that is resistant to streptomycin"
         },
 
             
