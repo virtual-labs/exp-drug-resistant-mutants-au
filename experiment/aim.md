@@ -5,3 +5,5 @@
 2. To become familiar with gradient plate method for isolating antibiotic resistant mutants.
 
 3. To perform replica plating procedure for isolating and identifying Auxotrophic mutants.
+
+
