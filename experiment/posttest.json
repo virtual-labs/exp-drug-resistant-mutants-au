@@ -27,29 +27,29 @@
     },
 
     {
-      "question": "3.The significance of overlay technique in Gradient plate technique is :",
+      "question": "3. Visual identification of auxotrophic mutants can be performed by:",
       "answers": {
-        "a": "Nutrient agar sets easily compared to Streptomycin agar.",
-        "b": "Streptomycin diffuses into the lower layer, producing a gradient of antibiotic concentration from low to high.",
-        "c": "Growth rate is more in Streptomycin agar than in nutrient agar.",
-        "d": "None of the above."
+        "a": "Gradient plate method",
+        "b": "Mechanical filtration method",
+        "c": "Pencillin selection method",
+        "d": "Replica plate method"
       },
           
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
       {
-        "question": "4. Absence of microbial growth on the HSC region of gradient plate indicates:",
+        "question": "4. An example of selective mutation from the group is",
         "answers": {
-          "a": "Absence of Streptomycin resistant mutants.",
-          "b": "Presence of Streptomycin sensitive colonies.",
-          "c": "Lack of inoculums.",
-          "d": "Both a and c"
+          "a": "a mutant of Bacillus subtilis unable to form endospores.",
+          "b": "a mutant of Escherichia coli unable to produce tryptophan",
+          "c": "a mutant of Streptococcus pneumoniae that does not form capsules.",
+          "d": "a mutant of E. coli that is resistant to streptomycin."
         },
 
             
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }   
      
