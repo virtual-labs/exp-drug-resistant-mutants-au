@@ -1,9 +1,10 @@
+## Gradient Plate Technique
+
+
 ### Materials required:
  
-
-### Gradient Plate Technique
  
-1.	 24 hour old nutrient broth culture of Escherichia coli.
+1. 24 hour old nutrient broth culture of Escherichia coli.
 
 2.	Two nutrient agar deep tubes (10 ml per tube/culture).
 
@@ -78,7 +79,7 @@ Growth  of E.coli colonies in HSC area indicates the successful isolation of str
 &nbsp;
 
 
-### Replica plating method:
+## Replica plating method:
 
 &nbsp;
 
@@ -110,7 +111,7 @@ Growth  of E.coli colonies in HSC area indicates the successful isolation of str
 
 &nbsp;
 
-DAY 1
+**DAY 1**
 
 1.	Melt the nutrient agar deeps tubes in a hot water bath maintained at 960 C.
 
@@ -131,7 +132,7 @@ DAY 1
 
 &nbsp;
 
-DAY 2
+**DAY 2**
  
  
 1.	A reference mark (at 12 O'clock position) was noted on the bottom of the master plate, plate with nutrient agar and plate supplemented with Streptomycin.
