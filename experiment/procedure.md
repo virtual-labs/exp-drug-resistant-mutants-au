@@ -1,7 +1,7 @@
-## Gradient Plate Technique
+### Gradient Plate Technique
 
 
-### Materials required:
+#### Materials required:
  
  
 1. 24 hour old nutrient broth culture of Escherichia coli.
@@ -24,7 +24,7 @@
 
 ## Procedure:
  
-### I) Preparation of gradient plate:
+#### I) Preparation of gradient plate:
  
 1.	Melt two nutrient agar plates maintained at 960C and cool to 550 C
 
@@ -41,7 +41,7 @@
 
 &nbsp;
  
-### II) Inoculation of culture:
+#### II) Inoculation of culture:
  
 1.	Pipette out 200µl (0.2ml) of the overnight Escherichia coli culture onto the gradient plate after 24 hours of its preparation.
 
@@ -52,7 +52,7 @@
 4.	Observe the plate for appearance of E.coli colonies in the area of low streptomycin concentration (LSC) and high streptomycin concentration (HSC) and record the results.
 
  
-### Results:
+#### Results:
 
 Colonies which appear in the area of high concentration streptomycin region will be streptomycin resistant mutants.
 
@@ -60,7 +60,7 @@ Colonies which appear in the area of high concentration streptomycin region will
 &nbsp;
 
 
-### III. Confirming presence of Streptomycin resistant colonies of E.coli.
+#### III. Confirming presence of Streptomycin resistant colonies of E.coli.
  
 1.	Select and mark an isolated colony of E.coli in the HSC region of the Nutrient agar plate.
 
@@ -72,18 +72,18 @@ Colonies which appear in the area of high concentration streptomycin region will
 
 5.	Observe the growth of streaked colonies towards the HSC region.
 
-### Results:
+#### Results:
 
 Growth  of E.coli colonies in HSC area indicates the successful isolation of streptomycin resistant mutants.
 
 &nbsp;
 
 
-## Replica plating method:
+### Replica plating method:
 
 &nbsp;
 
-### Materials required:
+#### Materials required:
 
 1.	24 hour old nutrient broth culture of Escherichia coli.
 
@@ -107,7 +107,7 @@ Growth  of E.coli colonies in HSC area indicates the successful isolation of str
 
 &nbsp;
 
-### Procedure:
+#### Procedure:
 
 &nbsp;
 
@@ -151,7 +151,7 @@ Growth  of E.coli colonies in HSC area indicates the successful isolation of str
 &nbsp;
 
  
-### Results:
+#### Results:
 
 E.coli colonies which appear on the Streptomycin supplemented agar was confirmed as Streptomycin resistant mutants and the number of colonies were counted using Quebec Colony Counter.
  
