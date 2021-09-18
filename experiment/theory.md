@@ -51,7 +51,7 @@ An excellent way to determine the ability of organisms to produce mutants that a
 
 <img src="images/Drug1.jpg" title="" />
 
- Fig 1: Gradient plate preparation steps
+ **Fig 1: Gradient plate preparation steps**
  
  &nbsp;
  
@@ -65,4 +65,4 @@ Replica plating allows the observation of microbes under a series of growth cond
 
 <img src="images/Drug2.png" title="" />
 
-Fig 2: Replica plating technique
+**Fig 2: Replica plating technique**
